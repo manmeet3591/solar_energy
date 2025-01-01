@@ -10,13 +10,15 @@ Thus, if you are working with `RSDS`, it already represents the total solar radi
 ## Key Points
 - **GHI = RSDS**: This is true if you are directly using CMIP6 data and not trying to break `RSDS` into its components.
 - You only need to calculate GHI manually if you want to reconstruct it from its components:
+  
   \[
   \text{GHI} = \text{DNI} \cdot \cos(\theta) + \text{DIF}
   \]
+
   Where:
-  - `DNI`: Direct Normal Irradiance.
-  - `cos(θ)`: Cosine of the solar zenith angle.
-  - `DIF`: Diffuse Horizontal Irradiance.
+  - \( \text{DNI} \): Direct Normal Irradiance.
+  - \( \cos(\theta) \): Cosine of the solar zenith angle.
+  - \( \text{DIF} \): Diffuse Horizontal Irradiance.
 
 ## When to Use `RSDS` Directly
 - If your goal is to obtain GHI from CMIP6 data without decomposing it into direct and diffuse components, you can directly use `RSDS`.
