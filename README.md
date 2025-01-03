@@ -6,3 +6,6 @@
 
 3. Russo, M.A., Carvalho, D., Martins, N. and Monteiro, A., 2023. Future perspectives for wind and solar electricity production under high-resolution climate change scenarios. Journal of Cleaner Production, 404, p.136997. https://www.sciencedirect.com/science/article/pii/S0959652623011551
 
+4. CCAI NeurIPS 2024 proposal: Machine Learning Models for Predicting Solar Power Potential and Energy Efficiency in some underserved localities of the Congo Basin Region (Proposals Track)
+ https://www.climatechange.ai/papers/neurips2024/79
+
