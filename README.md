@@ -9,3 +9,4 @@
 4. CCAI NeurIPS 2024 proposal: Machine Learning Models for Predicting Solar Power Potential and Energy Efficiency in some underserved localities of the Congo Basin Region (Proposals Track)
  https://www.climatechange.ai/papers/neurips2024/79
 
+5. Photovoltaic installations are extensively deployed in areas at risk of extremely low production https://www.nature.com/articles/s43247-024-01932-4.pdf
